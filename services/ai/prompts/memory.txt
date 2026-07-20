@@ -1,0 +1,8 @@
+Extract durable, useful facts about the user from the conversation turn below.
+
+Rules:
+- Only extract stable, long-term facts (name, location, profession, preferences,
+  goals, interests). Ignore transient details and questions.
+- Return a compact JSON object mapping short snake_case keys to string values.
+- If there is nothing worth remembering, return an empty JSON object: {}
+- Do not include commentary, code fences, or any text outside the JSON.

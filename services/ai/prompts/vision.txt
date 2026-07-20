@@ -1,0 +1,6 @@
+Describe this image in a clear and helpful way.
+
+- State what is depicted, including notable objects, people, text and context.
+- If the image contains text, transcribe the important parts.
+- If the user asked a specific question about the image, answer it directly.
+- Be concise and factual. Do not speculate beyond what is visible.
